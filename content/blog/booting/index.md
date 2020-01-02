@@ -18,7 +18,7 @@ While a "personal blog" might seem like a personal space, you are still exposed 
 
 # "What platform should I use?"
 
-This one wasn't hard to choose. Just before attending [CDC 2019](https://cdc.dev) I started reading a bit of Dan Abramov's blog, [Overreacted](https://overreacted.io/). While the content was good, what impressed me was the minimalist looking blog and how fast it was to browse it. Later in CDC I attended a workshop on something called the [JAMstack](https://jamstack.org/). The concept is simple, deliver your content as a static set of files to capitalize CDN speeds (no wordpress or ruby or database.. essentially, no backend). There are other pros on it but that is out of scope for now.
+This one wasn't hard to answer. Just before attending [CDC 2019](https://cdc.dev) I started reading a bit of Dan Abramov's blog, [Overreacted](https://overreacted.io/). While the content was good, what impressed me was the minimalist looking blog and how fast it was to browse it. Later in CDC I attended a workshop on something called the [JAMstack](https://jamstack.org/). The concept is simple, deliver your content as a static set of files to capitalize CDN speeds (no wordpress or ruby or database.. essentially, no backend). There are other pros on it but that is out of scope for now.
 
 The concept was great, the workshop was a bit _boring_ but I also found about Gatsby, a static site generator that used React as the main UI library. To me Gatsby was great since I only remember Jekyll from the early GitHub days (Yes, living under a rock) _and_ I am  using React as my main tool for UI. Finally, I was a bit familiar with Netlify already and It's perfect for this purpose.
 
@@ -26,7 +26,7 @@ Later on I found the same template Abramov was using and... Well, here we are, a
 
 # "What should I do with it?"
 
-A silly question, isn't it? _What should you do once you publish your blog?_, well post quality content of course! Write about the related topics that interest you. Share your knowledge, acquire more of it. You might stop postponing those side projects for the sake of sharing how you build them with the world.
+A silly question, isn't it? _What should you do once you publish your blog?_ Well post quality content of course! Write about the related topics that interest you. Share your knowledge, acquire more of it. You might stop postponing those side projects for the sake of sharing how you build them with the world.
 
 Just like your Linux system, you _own_ this. Do what you want with it.
 
